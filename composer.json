@@ -1,4 +1,4 @@
-"repositories": [
+"repositories": {
     {
         "type": "vcs",
         "url": "https://github.com/edevtime/learncps.git"
@@ -11,4 +11,4 @@
             }
         }
     }
-],
+},
