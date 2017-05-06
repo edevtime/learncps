@@ -1,0 +1,14 @@
+"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/weaverryan/derp-dangerzone"
+        "package": {
+            "name": "edevtime/learncps",
+            "autoload": {
+                "psr-0" : {
+                    "a\\b" : "src"
+                }
+            }
+        }
+    }
+],
