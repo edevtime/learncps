@@ -1,7 +1,7 @@
-"repositories": [
+"repositories": {
     {
         "type": "vcs",
-        "url": "https://github.com/weaverryan/derp-dangerzone"
+        "url": "https://github.com/edevtime/learncps.git"
         "package": {
             "name": "edevtime/learncps",
             "autoload": {
